@@ -1,0 +1,37 @@
+label
+{
+color: black;
+font-size: 14px;
+text-align: left;
+}
+
+textarea
+{
+background-color:#ffffff;
+
+}
+
+input
+{
+background-color:#ffffff;
+}
+
+p
+{
+font-size: 14px;
+}
+
+
+.entry
+{
+text-align: left;
+}
+
+.top
+{
+vertical-align: top;
+text-align: right;
+}
+
+
+

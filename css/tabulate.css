@@ -1,0 +1,73 @@
+
+.tabulate 
+{
+	
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #ffffff), color-stop(1, #ffffff));
+	background:-moz-linear-gradient( center top, #ffffff 5%, #ffffff 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#ffffff');
+	background-color:#ffffff;
+	-webkit-border-top-left-radius:15px;
+	-moz-border-radius-topleft:15px;
+	border-top-left-radius:15px;
+	-webkit-border-top-right-radius:15px;
+	-moz-border-radius-topright:15px;
+	border-top-right-radius:15px;
+	text-indent:0;
+	display:inline-block;
+	color:#000000;
+	font-family: 'Comfortaa';
+	font-size:17px;
+	font-weight:normal;
+	font-style:normal;
+	height:50px;
+	line-height:50px;
+	width:110px;
+	text-decoration:none;
+	text-align:center;
+}
+
+.red:hover 
+{
+   border-top-color: #df1200;
+   background: #df1200;
+   color: #ffffff;
+   width:110px;
+}
+
+.blue:hover 
+{
+   border-top-color: #0044e7;
+   background: #0044e7;
+   color: #ffffff;
+   width:110px;
+}
+
+.green:hover 
+{
+   border-top-color: #0f7a12;
+   background: #0f7a12;
+   color: #ffffff;
+   width:110px;
+}
+
+.yellow:hover 
+{
+   border-top-color: #fff552;
+   background: #fff552;
+   color: #000000;
+   width:110px;
+}
+
+.black:hover 
+{
+   border-top-color: #000000;
+   background: #000000;
+   color: #ffffff;
+   width:110px;
+}
+
+.tabulate:active 
+{
+	position:relative;
+	top:0px;
+}

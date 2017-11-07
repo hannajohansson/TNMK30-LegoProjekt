@@ -1,0 +1,217 @@
+
+header
+{
+position: relative; 
+width: 800px;
+}
+
+nav
+{
+margin: 10px 0px 0px 0px;
+text-align: left;
+
+}
+
+body
+{
+background-color:#cecece;
+font-family:"Verdana"; 
+margin: 0px auto;
+width:800px;
+min-height: 100%;
+padding: 0px 0px 0px 0px;
+}
+
+p
+{
+font-size:14px;
+}
+
+a
+{
+font-size: 14px;
+}
+
+img
+{
+position: center;
+}
+
+table
+{
+text-align: center;
+margin: auto;
+}
+
+h1
+{
+color:#000000;
+text-align:center;
+font-family: 'Comfortaa';
+}
+
+h2
+{
+text-align: left;
+font-size: 16px;
+font-family: 'Verdana';
+font-weight: normal;
+}
+
+h3
+{
+font-family: 'Comfortaa';
+}
+
+th
+{
+font-family: 'Comfortaa';
+}
+
+td
+{
+font-family: 'Verdana';
+font-size: 14px;
+}
+
+tr
+{
+padding: 0px;
+}
+
+footer
+{
+font-family: 'Verdana';
+font-size: 14px;
+}
+
+li
+{
+font-family: 'Verdana';
+font-size: 14px;
+text-align: left;
+}
+
+input
+{
+height: 22px;
+}
+
+ul
+{
+list-style-image: url('ikongronlego.png');
+line-height: 30px;
+}
+
+
+
+
+.center
+{
+padding: 10px;
+border:5px solid #ffffff;
+background-color: #ffffff;
+margin: 0px 0px 15px 0px;
+text-align: center;
+min-height: 600px;
+}
+
+.onlycenter
+{
+text-align: center;
+position: center;
+}
+
+.databas
+{
+padding:10px;
+border:1px solid #ffffff;
+background-color: #ffffff;
+margin: 0px 0px 15px 0px;
+min-height: 600px;
+}
+
+.contacttable
+{
+text-align: center;
+width: 800px;
+}
+
+.searchtable
+{
+margin: auto; 
+text-align:right; 
+border: 0;
+}
+
+.top
+{
+vertical-align: top;
+}
+
+.image
+{
+-webkit-border-radius: 30px;
+}
+
+.rightimage 
+{
+margin: 20px;
+padding: 0px;
+margin-top: 40px;
+position: center;
+}
+
+.medieteknik
+{
+position: center;
+bottom: 0px; 
+}
+
+.rowheight
+{
+height: 80px;
+}
+
+.left
+{
+text-align: left;
+}
+
+.contacttd
+{
+width: 120px;
+}
+
+
+
+
+#tablewidth
+{
+width: 780px;
+}
+
+
+
+.dot a:hover 
+{
+color:green;
+}
+
+.dot a
+{
+color: #000000;
+font-weight: normal;
+text-decoration: none;
+font-size: 16px;
+}
+
+.dot:visited
+{
+color: darkgreen;
+}
+
+
+
+
+
